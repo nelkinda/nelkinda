@@ -1,6 +1,6 @@
 # Hey there!
 
-We're Nelkinda Software Craft Pvt Ltd.
+We're Nelkinda Software Craft, founded by [Christian Hujer](https://github.com/christianhujer) and [Siddhesh Nikude](https://github.com/sidnik007).
 We are raising the bar in professional software development by doing and and helping others do it.
 
 What you will find here:

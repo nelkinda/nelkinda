@@ -1,0 +1,12 @@
+[rebase]
+	autostash = true
+[pull]
+	rebase = true
+[core]
+	pager = "less -X -MR "
+[credential "https://source.developers.google.com"]
+	helper = gcloud.sh
+[fetch]
+	prune = true
+[init]
+	defaultBranch = trunk

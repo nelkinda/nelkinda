@@ -8,3 +8,4 @@ What you will find here:
   Ideal for teachers and coderetreat facilitators.
 - 📔 [Templates](pages/Templates.md) for single-module and multi-module Gradle projects in Java and Kotlin (more to come).
 - 📚 A few [Go](pages/Go.md) libraries.
+- 🗄️ A few [configuration files](files/).

@@ -9,7 +9,7 @@ We are raising the bar in professional software development by doing and and hel
 - 📔 [Templates](pages/Templates.md) for single-module and multi-module Gradle projects in Java and Kotlin (more to come).
 - 📚 A few [Go](pages/Go.md) libraries.
 - 🗄️ A few [configuration files](files/).
-# ❓ An [FAQ](pages/FAQ.md) for people working on Nelkinda projects.
+- ❓ An [FAQ](pages/FAQ.md) for people working on Nelkinda projects.
 
 ## Links
 - [Company Website](https://nelkinda.com/)

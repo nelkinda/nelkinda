@@ -1,4 +1,4 @@
-# Nelkinda Go libraries
+# 📚 Nelkinda Go libraries
 
 - [clock-go](https://github.com/nelkinda/clock-go) contains an injectable clock to allow easy testing of time-dependent functionality.
 - [config-go](https://github.com/nelkinda/config-go) contains a configuration framework that supports reading configurations from various sources, including MongoDB.

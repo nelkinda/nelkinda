@@ -1,4 +1,4 @@
-# Templates
+# 📔 Templates
 
 We regularly start greenfield projects for various reasons:
 - Bootcamps and training

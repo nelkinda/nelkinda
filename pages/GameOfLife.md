@@ -1,4 +1,4 @@
-# Conway's Game of Life
+# 👾 Conway's Game of Life
 
 Conway's Game of Life is a cellular automaton.
 It is a popular challenge for coderetreats, and a popular task to give to computer science students.
